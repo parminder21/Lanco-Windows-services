@@ -1,0 +1,48 @@
+Service is started at 06-01-2022 17:08:25
+client 3 Connected: 06-01-2022 17:08:25
+T3 cmd: Connected
+T3 cmd: |TAG-610%
+vehicleNumber is:8767
+T3 cmd: |WBUSY-7105%
+TARE - Weighing machine is busy, weight is: 7105 and Vehicle Num: 8767
+T3 cmd: |HLT%
+Health: |OK%
+T3 cmd: |OK%
+Client3 retry is on: 06-01-2022 17:10:46
+Client3 retry is on: 06-01-2022 17:11:08
+Client3 retry is on: 06-01-2022 17:11:30
+client 3 Connected: 06-01-2022 17:11:30
+T3 cmd: Connected
+T3 cmd: |HLT%
+Health: |OK%
+T3 cmd: |OK%
+Client3 retry is on: 06-01-2022 17:12:44
+client 3 Connected: 06-01-2022 17:12:44
+T3 cmd: Connected
+T3 cmd: |HLT%
+Health: |OK%
+T3 cmd: |OK%
+T3 cmd: |TAG-610%
+vehicleNumber is:8767
+T3 cmd: |WT-7190%
+Weight is: 7190 and Vehicle Num: 8767
+T3 cmd: |WT-7190%
+Weight is: 7190 and Vehicle Num: 8767
+Client3 retry is on: 06-01-2022 17:14:01
+Client3 retry is on: 06-01-2022 17:14:24
+client 3 Connected: 06-01-2022 17:14:24
+T3 cmd: Connected
+T3 cmd: |HLT%
+Health: |OK%
+T3 cmd: |OK%
+T3 cmd: |TAG-610%
+vehicleNumber is:8767
+T3 cmd: |WT-7190%
+Weight is: 7190 and Vehicle Num: 8767
+Gross weight: 7190 of vehicle num: 8767 updated successfully
+Service is stopped at 06-01-2022 17:15:27
+Client3 retry is on: 06-01-2022 17:15:43
+Client3 retry is on: 06-01-2022 17:16:05
+Client3 retry is on: 06-01-2022 17:16:46
+Client3 retry is on: 06-01-2022 17:17:27
+Client3 retry is on: 06-01-2022 17:18:08

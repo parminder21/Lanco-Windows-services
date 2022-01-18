@@ -1,0 +1,1 @@
+sc create WMS_Exit binpath= "C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\bin\Debug\Exit.exe" displayname= "WMS_Exit" start= auto

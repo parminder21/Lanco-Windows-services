@@ -1,0 +1,4 @@
+Trip ID, Vehicle Number, In DateTime, Tare Weight, Tare Weight DateTime, Gross Weight, Gross Weight DateTime, Material Weight, PO Number, Line, Material Type, Challan Number, Out DateTime, Print DateTime
+5, 8980, 16-12-2021 18:15:42, 2000, 16-12-2021 19:38:24, 3500, 16-12-2021 19:38:35, 1500, 724679847, Line 1, Wood, jhghut7857, 16-12-2021 19:38:48, 16-12-2021 19:38:48, 
+6, 8767, 2021-12-19 13:25:01, , 0000-00-00 00:00:00, , 0000-00-00 00:00:00, , , , , , 0000-00-00 00:00:00, 0000-00-00 00:00:00, 
+6, 8767, 2021-12-19 13:25:01, 6000, 2021-12-19 13:27:01, , , , , , , , , , 

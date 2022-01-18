@@ -1,0 +1,8 @@
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\bin\Debug\Exit.exe.config
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\bin\Debug\Exit.exe
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\bin\Debug\Exit.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\bin\Debug\MySql.Data.DLL
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\obj\Debug\Exit.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\obj\Debug\Exit.csproj.CopyComplete
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\obj\Debug\Exit.exe
+C:\C# Projects\Lanco Weighing Bridge Management\Exit\Exit\obj\Debug\Exit.pdb

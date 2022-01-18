@@ -1,0 +1,5 @@
+Vendor ID, Vehicle ID, Vehicle Number, Insurance Expiry Date, Pollution Expiry Date, Teir Type, PO Number, PO Start Date, PO End Date, RFID Tag Id, Action Type
+1, 1, 8980, 2021-12-30, 2021-12-29, Single, 1, 2021-12-07, 2021-12-15, 608, Add, 
+1, 1, 8980, 2021-12-30, 2021-12-29, Single, 1, 2021-12-07, 2021-12-15, 608, Update, 
+1, 1, 8980, 2021-12-30, 2021-12-29, Single, 1, 2021-12-07, 2021-12-15, 608, Update, 
+2, 2, 8767, 2021-12-16, 2023-12-16, Double, 2, 2021-12-16, 2023-12-16, 610, Add, 

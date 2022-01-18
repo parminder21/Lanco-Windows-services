@@ -1,0 +1,1 @@
+sc create test_audioplay binpath= "C:\C# Projects\Lanco Weighing Bridge Management\AudioMsgPlay\AudioMsgPlay\bin\Debug\AudioMsgPlay.exe" displayname= "test_audioplay" start= auto

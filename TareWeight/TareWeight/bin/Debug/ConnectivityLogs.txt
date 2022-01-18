@@ -1,0 +1,20 @@
+Client2 retry is on: 06-01-2022 15:42:20
+Service is started at 06-01-2022 15:42:49
+Client2 retry is on: 06-01-2022 15:43:12
+client 2 Connected: 06-01-2022 15:43:12
+T2 cmd: Connected
+T2 cmd: |TAG-610%
+vehicleNumber is:8767
+T2 cmd: |WBUSY-6100%
+TARE - Weighing machine is busy, weight is: 6100 and Vehicle Num: 8767
+Client2 retry is on: 06-01-2022 16:05:11
+client 2 Connected: 06-01-2022 16:05:11
+Service is stopped at 06-01-2022 16:06:02
+Client2 retry is on: 06-01-2022 16:06:11
+Client2 retry is on: 06-01-2022 16:06:33
+Client2 retry is on: 06-01-2022 16:06:55
+Client2 retry is on: 06-01-2022 16:07:17
+Client2 retry is on: 06-01-2022 16:07:39
+Client2 retry is on: 06-01-2022 16:08:01
+Client2 retry is on: 06-01-2022 16:08:23
+Client2 retry is on: 06-01-2022 16:08:45

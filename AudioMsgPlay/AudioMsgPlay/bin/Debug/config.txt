@@ -1,0 +1,3 @@
+DbPath=SERVER=127.0.0.1;DATABASE=lanco_weighing_bridge;UID=root;PASSWORD=
+TimerCallSec=10
+DebugLog=True
