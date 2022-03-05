@@ -1,0 +1,17 @@
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\bin\Debug\Entry.exe.config
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\bin\Debug\Entry.exe
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\bin\Debug\Entry.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\bin\Debug\MySql.Data.DLL
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\obj\Debug\Entry.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\obj\Debug\Entry.csproj.CopyComplete
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\obj\Debug\Entry.exe
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\obj\Debug\Entry.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\Entry\Entry\Entry\obj\Debug\Entry.csprojAssemblyReference.cache
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\bin\Debug\Entry.exe.config
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\bin\Debug\Entry.exe
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\bin\Debug\Entry.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\obj\Debug\Entry.csprojAssemblyReference.cache
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\obj\Debug\Entry.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\obj\Debug\Entry.csproj.CopyComplete
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\obj\Debug\Entry.exe
+C:\C# Projects\Lanco Weighing Bridge Management\V2.0\Entry\Entry\Entry\obj\Debug\Entry.pdb

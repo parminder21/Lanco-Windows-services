@@ -1,0 +1,9 @@
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\bin\Debug\AutoSyncData.exe.config
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\bin\Debug\AutoSyncData.exe
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\bin\Debug\AutoSyncData.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\bin\Debug\MySql.Data.DLL
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\obj\Debug\AutoSyncData.csprojAssemblyReference.cache
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\obj\Debug\AutoSyncData.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\obj\Debug\AutoSyncData.csproj.CopyComplete
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\obj\Debug\AutoSyncData.exe
+C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\AutoSyncData\obj\Debug\AutoSyncData.pdb

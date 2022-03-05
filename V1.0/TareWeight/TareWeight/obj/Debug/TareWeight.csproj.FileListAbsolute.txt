@@ -1,0 +1,9 @@
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\bin\Debug\TareWeight.exe.config
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\bin\Debug\TareWeight.exe
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\bin\Debug\TareWeight.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\bin\Debug\MySql.Data.DLL
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\obj\Debug\TareWeight.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\obj\Debug\TareWeight.csproj.CopyComplete
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\obj\Debug\TareWeight.exe
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\obj\Debug\TareWeight.pdb
+C:\C# Projects\Lanco Weighing Bridge Management\TareWeight\TareWeight\obj\Debug\TareWeight.csprojAssemblyReference.cache

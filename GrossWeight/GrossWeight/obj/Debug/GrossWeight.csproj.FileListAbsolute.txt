@@ -1,8 +1,0 @@
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\bin\Debug\GrossWeight.exe.config
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\bin\Debug\GrossWeight.exe
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\bin\Debug\GrossWeight.pdb
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\bin\Debug\MySql.Data.DLL
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\obj\Debug\GrossWeight.csproj.CoreCompileInputs.cache
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\obj\Debug\GrossWeight.csproj.CopyComplete
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\obj\Debug\GrossWeight.exe
-C:\C# Projects\Lanco Weighing Bridge Management\GrossWeight\GrossWeight\obj\Debug\GrossWeight.pdb

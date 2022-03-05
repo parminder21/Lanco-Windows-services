@@ -1,0 +1,1 @@
+sc create WMS_AutoSyncData binpath= "C:\C# Projects\Lanco Weighing Bridge Management\AutoSyncData\V2.0\AutoSyncData\AutoSyncData\bin\Debug\AutoSyncData.exe" displayname= "WMS_AutoSyncData" start= auto

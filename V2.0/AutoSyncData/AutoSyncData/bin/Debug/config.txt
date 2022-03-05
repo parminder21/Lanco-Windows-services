@@ -1,0 +1,7 @@
+DbPath=SERVER=127.0.0.1;DATABASE=lanco_weighing_bridge;UID=root;PASSWORD=
+TimerCallSec=300
+DebugLog=True
+ftpip=ftp:10.5.15.209/60MT_2_RFID/
+ftpusername=LAPLRFID
+ftppassword=Welcome@12345
+filepath=

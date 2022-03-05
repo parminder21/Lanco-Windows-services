@@ -1,0 +1,4 @@
+DbPath=SERVER=127.0.0.1;DATABASE=lanco_weighing_bridge;UID=root;PASSWORD=
+Server4_IP=192.168.1.173
+Retry_milisec=50000
+DebugLog=True
